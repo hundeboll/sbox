@@ -1,0 +1,11 @@
+http_host: '::'
+http_name: Sbox Distributed Jukebox
+http_path: /
+http_port: 5000
+http_proto: http
+spotify_user: <your spotify user>
+spotify_pass: <your spotify password>
+spotify_playlist: {name: sbox, uri: }
+spotify_index: 0
+user_admins: []
+user_list: user_list.yaml
